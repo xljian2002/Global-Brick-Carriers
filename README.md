@@ -1,4 +1,25 @@
 ╔══════════════════════════════════════════════════════════╗║ ║║ Global Bricklayer Mobile Phone Group Control System ║║ —— One computer, controlling thousands of mobile phones, efficiency increased by a hundred times —— ║║ ║╚══════════════════════════════════════════════════════════════╝
+
+▌ How to Download / 下载说明 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The complete program archive is split into 10 volumes (program.zip.001 ~ program.zip.010, 50MB each).
+
+**Steps:**
+1. Download ALL 10 volume files (program.zip.001 ~ program.zip.010) from the repository root
+2. Put them in the same folder
+3. Extract program.zip.001 with 7-Zip or WinRAR — the volumes merge automatically
+4. Follow 使用教程.txt (User Guide) to install and run
+
+完整程序压缩包已分成10个分卷（program.zip.001 ~ program.zip.010，每卷50MB）。
+
+**步骤：**
+1. 下载仓库根目录的全部10个分卷文件（program.zip.001 ~ program.zip.010）
+2. 放到同一个文件夹里
+3. 用 7-Zip 或 WinRAR 解压第一卷 program.zip.001，分卷会自动合并
+4. 按照 使用教程.txt 的说明安装运行
+
+⚠️ Note: ALL volumes are required. A single volume alone cannot be extracted.
+⚠️ 注意：必须下载全部分卷，缺少任何一个都无法解压。
 ▌ Product Introduction ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  The Global Bricklayer Mobile Phone Group Control System is a professional platform for batch management and automated control of Android devices. It enables the simultaneous control of hundreds or even thousands of mobile phones through a single computer, facilitating batch operations, automated running, and intelligent management. It is widely used in industries such as e-commerce operations, social media matrix, customer service management, data collection, and game promotion.
  Key highlights: Multiple selection methods, high operational efficiency, strong system stability, and extensive scalability.
