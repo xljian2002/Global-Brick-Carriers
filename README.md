@@ -1,65 +1,133 @@
-╔══════════════════════════════════════════════════════════╗║ ║║ Global Bricklayer Mobile Phone Group Control System ║║ —— One computer, controlling thousands of mobile phones, efficiency increased by a hundred times —— ║║ ║╚══════════════════════════════════════════════════════════════╝
+# Global Brick Carriers — AI-Powered Android Device Farm Controller
 
-▌ How to Download / 下载说明 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> Batch-control, mirror, and automate up to **1000 Android phones** from a single Windows PC.
+>
+> 一台电脑，批量管理与自动化控制上千台安卓手机。
 
-The complete program archive is split into 10 volumes (program.zip.001 ~ program.zip.010, 50MB each).
+[官方网站 / Website](https://www.mpgc888.cn/) · [下载说明 / How to Download](#-how-to-download--下载说明)
+
+---
+
+## 📖 Overview
+
+Global Brick Carriers (全球搬砖者手机群控系统) is a Windows desktop application for managing large fleets of Android devices — a practical **device farm** console for QA teams, app developers, and enterprise IT.
+
+It combines scrcpy-based screen mirroring, ADB batch operations, and AI-assisted visual automation in one multi-language interface.
+
+**One operator + one PC = the workload of a whole device lab.**
+
+---
+
+## ✨ Key Features
+
+### 🖥️ Mass Screen Mirroring
+- **Matrix view** — dozens of live device screens in one window; click any tile to control that phone directly
+- **Focus view** — full-screen single-device mode for precise operation
+- Adjustable tiles per row, landscape & portrait layouts
+- Engineered for stable 24/7 long-run operation
+
+### 📲 10 Ways to Select Devices
+Single click · drag-box · auto-scrolling box select · select-all · invert selection · group filter · saved presets · by screen orientation · by online status · quick re-select.
+
+Pick 1000 devices in seconds — not minutes.
+
+### 🤖 AI Visual Automation
+- **Image matching** — locate icons and buttons, click precisely across different device models
+- **OCR** — read on-screen text and act on it
+- **Scene detection** — execute different steps on different pages
+- **Anomaly handling** — auto-detect and dismiss crashes & pop-ups
+
+### ⚙️ Zero-Code Scripting
+- Record your operations once → replay on every device
+- Visual drag-and-drop flow editor
+- Conditions, loops, variables — no programming required
+
+### 🔁 Batch Operations
+One action, all selected devices at once:
+
+Install / uninstall apps · launch / stop apps · batch text input · batch screenshots · batch ADB commands · file transfer.
+
+### 🧩 Groups & Monitoring
+- Device groups organized by project / team / business line
+- Real-time dashboards: device status, app health, system resources
+- Exception alerts, auto-reconnect, process watchdog
+- Historical monitoring data for traceability
+
+### 🔌 Open API
+- HTTP + WebSocket interfaces for integration with ERP / CRM / internal tools
+- Token authentication, rate limiting, command whitelist
+- Development documentation & sample code included
+
+---
+
+## 🎯 Use Cases
+
+| Scenario | What it does |
+|----------|--------------|
+| 🧪 **App QA & Testing** | UI automation, compatibility & stress testing across many real devices |
+| 🏢 **Enterprise IT** | Batch app deployment, device fleet monitoring & maintenance |
+| 👨‍💻 **App Development** | Live-debug across many device models at the same time |
+| 🏪 **E-commerce Customer Service** | One operator handles conversations across storefronts |
+| 🎓 **Education & Demo** | Mirror a whole lab of devices onto one screen |
+
+---
+
+## 📋 Specifications
+
+| Item | Value |
+|------|-------|
+| Platform | Windows 10 / 11 |
+| Connection | USB 2.0 |
+| Max devices | 1000 |
+| Interface | Multi-language UI |
+| API | HTTP + WebSocket |
+
+---
+
+## 📥 How to Download / 下载说明
+
+The complete program archive is split into **10 volumes** (`program.zip.001` ~ `program.zip.010`, ~50 MB each).
 
 **Steps:**
-1. Download ALL 10 volume files (program.zip.001 ~ program.zip.010) from the repository root
+1. Download **ALL 10 volume files** (`program.zip.001` ~ `program.zip.010`) from the repository root
 2. Put them in the same folder
-3. Extract program.zip.001 with 7-Zip or WinRAR — the volumes merge automatically
-4. Follow 使用教程.txt (User Guide) to install and run
+3. Extract `program.zip.001` with **7-Zip** or WinRAR — the volumes merge automatically
+4. Follow `使用教程.txt` (User Guide) to install and run
 
-完整程序压缩包已分成10个分卷（program.zip.001 ~ program.zip.010，每卷50MB）。
+完整程序压缩包已分成 **10 个分卷**（`program.zip.001` ~ `program.zip.010`，每卷约 50MB）。
 
 **步骤：**
-1. 下载仓库根目录的全部10个分卷文件（program.zip.001 ~ program.zip.010）
+1. 下载仓库根目录的**全部 10 个分卷文件**（`program.zip.001` ~ `program.zip.010`）
 2. 放到同一个文件夹里
-3. 用 7-Zip 或 WinRAR 解压第一卷 program.zip.001，分卷会自动合并
-4. 按照 使用教程.txt 的说明安装运行
+3. 用 **7-Zip** 或 WinRAR 解压第一卷 `program.zip.001`，分卷会自动合并
+4. 按照 `使用教程.txt` 的说明安装运行
 
-⚠️ Note: ALL volumes are required. A single volume alone cannot be extracted.
-⚠️ 注意：必须下载全部分卷，缺少任何一个都无法解压。
-▌ Product Introduction ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- The Global Bricklayer Mobile Phone Group Control System is a professional platform for batch management and automated control of Android devices. It enables the simultaneous control of hundreds or even thousands of mobile phones through a single computer, facilitating batch operations, automated running, and intelligent management. It is widely used in industries such as e-commerce operations, social media matrix, customer service management, data collection, and game promotion.
- Key highlights: Multiple selection methods, high operational efficiency, strong system stability, and extensive scalability.
-▌ Ten Core Advantages
- ━━ Advantage 1: 10 multiple-choice options, choose however you like ━━ ─────────────────────────────────────────
- The crowd control software on the market mainly offers two or three methods, but our system has 10 ways to choose devices alone!
- ① [Single Click Selection] Click to select, precise down to each device ② [Drag and Drop Box Selection] Draw a box with the mouse, and all enclosed devices will be selected ③ [Scrolling Box Selection] Automatically scrolls when box selecting, making selecting thousands of devices effortless ④ [One-Button Full Selection] Click the button, and all devices are instantly selected ⑤ [Cancel Full Selection] One-button clear, quickly reselect ⑥ [Inverted Selection] Cancels the selected, selects the unselected, flexible switching ⑦ [Group Filter Selection] Filters by group, only operates on specified group devices ⑧ [Quick Selection of Pre-defined Plans] Saves commonly used combinations, one-button selection of specified devices ⑨ [Select by Screen Direction] One-button selection for landscape devices, one-button selection for portrait devices ⑩ [Select by Status] Select online/offline devices separately, precise operation
- 💡 Why is the multiple-choice method so important?
- For 100 devices, it takes 2 minutes to select each one individually; with box selection or pre-defined schemes, it can be done in 2 seconds.
- Operating 10 times a day saves over 100 hours a year!
- ━━ Advantage 2: Thousands of machines under one control, one machine can manage hundreds of people ━━ ─────────────────────────────────────────
- ✦ Stable control of 1000 mobile phones from a single computer ✦ Batch installation/uninstallation of apps, completing in seconds for hundreds of devices ✦ Batch launch/stop of applications, with zero delay in synchronous execution ✦ Batch input of text, with different content for each device ✦ Batch screenshot, collecting all device screens with one click ✦ Batch execution of ADB commands, for deep control of mobile phone systems ✦ Image recognition and positioning: finding icons and buttons, with precise clicks ✦ OCR text recognition: automatically reading screen text content ✦ Intelligent scene judgment: executing different operations on different pages ✦ Automatic exception recognition: automatically handling crashes and pop-ups ✦ Verification code recognition: automatically cracking common verification codes ✦ Unattended operation: running automatically for 24 hours, without human supervision ✦ AI control script development ✦ Convenient and efficient batch control for games
- You can handle the work done by a team with just one person and a system!
- ━━ Advantage 3: AI Visual Recognition, True Intelligent Automation ━━ ─────────────────────────────────────────
- Traditional group control can only rely on coordinate clicking, and it will malfunction if you change your phone.
- Our AI visual recognition technology enables automation to truly "see".
- ✦ Image recognition and positioning: Find icons and buttons, and click precisely ✦ OCR text recognition: Automatically read screen text content ✦ Intelligent scene judgment: Perform different operations on different pages ✦ Automatic exception recognition: Automatically handle crashes and pop-ups ✦ Verification code recognition: Automatically crack common verification codes ✦ Unattended operation: Run automatically 24/7, without human supervision
- ━━ Advantage 4: Script recording and playback, even zero-code users can play ━━ ─────────────────────────────────────────
- Can't write code? Never mind!
- ✦ Operation Recording: You operate once, and the system automatically generates a script ✦ Visual Editing: Drag-and-drop to build automated processes ✦ Rich Instructions: Click, swipe, input, wait, judge... ✦ Conditional Branching: IF judgment, different handling for different situations ✦ Loop Execution: Repeat tasks until conditions are met ✦ Variable Functions: Support variable operations and custom functions ✦ Script Market: Massive ready-made scripts, download and use immediately ✦ Batch Execution: One script, thousands of devices running simultaneously
- ━━ Advantage 5: Switch between Large and Small Screens in Dual Mode ━━ ─────────────────────────────────────────
- ✦ Small screen matrix mode: Dozens or even hundreds of mobile phones display on the same screen, monitoring the overall situation. The number of screens per row can be freely set, supporting both horizontal and vertical screen arrangements. Clicking on the small screen with the mouse directly controls the corresponding mobile phone
- ✦ Large Screen Focus Mode: Single device large screen display for precise operation. Supports full screen mode for immersive experience. One-click switch to the next device
- ✦ Window embedding technology: Native SCRCPY image quality, smooth and unstuttering Win32 deep embedding, strong integration H.264 hard decoding, low CPU usage
- ━━ Advantage 6: WebSocket open interface, endless possibilities in the ecosystem ━━ ─────────────────────────────────────────
- ✦ Standardized API interface, supporting secondary development in any language ✦ Integration with ERP/CRM/customer service systems for data exchange ✦ HTTP + WebSocket dual protocol, allowing flexible invocation ✦ Token authentication + rate limiting, ensuring security and reliability ✦ Command whitelist + sensitive content filtering, providing multiple layers of protection ✦ Detailed development documentation + sample code, enabling seamless integration ✦ Dual-port design: main control port + VIP debugging port
- ━━ Advantage 7: Group Management, Keeping Orderly Even with Multiple Devices ━━ ─────────────────────────────────────────
- ✦ Create device groups, categorized by business/project/team ✦ Switch between group labels for quick filtering and viewing ✦ Perform batch operations on groups, executing different tasks for different groups ✦ Manage group permissions, allowing different people to view different devices ✦ Drag and drop groups to easily categorize devices
- ━━ Advantage 8: Stable and reliable, operating 24/7 ━━ ─────────────────────────────────────────
- ✦ Multi-level exception handling to prevent program crashes ✦ Automatic reconnection mechanism to recover from network disconnections ✦ Process monitoring and protection to automatically restart in case of unexpected exit ✦ Device status monitoring to keep real-time track of each device ✦ System resource monitoring to provide a clear view of CPU/memory usage ✦ Health check API for easy and convenient operation and maintenance management ✦ Stability testing on thousands of devices for 7×24 hours
- ━━ Advantage Nine: Improved Monitoring, Everything Under Control ━━ ─────────────────────────────────────────
- ✦ 10 major monitoring subsystems for comprehensive monitoring ✦ Device-level monitoring: online status, performance metrics ✦ System-level monitoring: CPU, memory, disk, network ✦ Application-level monitoring: program running status, abnormal alarms ✦ Persistent storage of monitoring data for historical traceability ✦ Alarm engine for real-time notification of abnormal situations ✦ Monitoring dashboard for an overview of overall status on one screen
- ━━ Advantage 10: Professional Team, Guaranteed Service ━━ ─────────────────────────────────────────
- ✦ Over 5 years of deep experience in the group control industry, with extensive technical accumulation ✦ 1-on-1 dedicated technical support, with rapid response to issues ✦ Remote assistance for debugging, making it easy and quick to get started ✦ Weekly feature iterations, making it more powerful with use ✦ Custom development services to meet any personalized needs ✦ Source code delivery option, with complete autonomy and controllability of data ✦ Detailed usage documentation + video tutorials, for quick start
-▌ Applicable industry scenarios ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 🏪 [E-commerce Operation] Batch likes, comments, favorites, add-to-cart, follow stores. Store matrix management, traffic doubled growth. Customer service automatic reply, improve conversion efficiency
- 📱 [Self-Media Matrix] Tiktok/Kwai/Xiaohongshu Multi-Platform Batch Operation Batch publishing works, interacting and growing followers Unified management of matrix accounts, efficiency increased by a hundred times
- 💬 [Customer Service Center] Unified management of multiple accounts, one person can handle the workload of hundreds. Automatic reply + intelligent allocation. Customer service script templates, standardized service
- 📊 [Data Collection] Batch crawling of public information, competitor monitoring, price monitoring, data cleaning and analysis
- 🎮 [Game Studio] Batch account registration, automated task挂机, automatic gold farming, material farming, multi-account grinding, doubling your earnings
- 📈 [Marketing and Promotion] Precisely Reach Target Users, Send Private Messages and Promotions in Batches, Improve Conversion Rates, and Reduce Customer Acquisition Costs
- 🏢 [Enterprise IT Management] Unified management and control of multiple devices, batch deployment and update of apps, device status monitoring and maintenance
- 🧪 [Software Testing] Automated UI Testing, Compatibility Testing, Stress Testing: Enhanced Testing Efficiency, Guaranteed Quality
+> ⚠️ **Note / 注意**：ALL volumes are required — a single volume alone cannot be extracted. / 必须下载全部分卷，缺少任何一个都无法解压。
+
+---
+
+## 🇨🇳 中文简介
+
+**全球搬砖者手机群控系统 AI 开发版**是一款运行于 Windows 的安卓设备批量管理平台，面向测试团队、应用开发者与企业 IT 部门。
+
+一台电脑即可同时镜像、操控与自动化管理上千台安卓手机：
+
+- **多屏镜像**：矩阵模式一屏总览几十上百台设备，点击小屏直接操控对应手机
+- **十种选择方式**：点选、框选、滚动框选、全选、反选、分组筛选、预定义方案、横竖屏选择、在线状态选择——千台设备几秒选完
+- **AI 视觉自动化**：图像识别定位、OCR 文字识别、场景智能判断、异常自动处理
+- **零代码脚本**：录一次操作，千台设备自动执行；可视化流程编辑
+- **批量操作**：批量安装/卸载/启停应用、批量输入文字、批量截图、批量执行 ADB 命令
+- **分组管理与监控**：设备分组、实时监控面板、异常告警、断线自动重连
+- **开放接口**：HTTP + WebSocket API，支持对接 ERP / CRM 等内部系统
+
+**适用场景**：APP 自动化测试与兼容性测试、企业设备批量部署与运维、多机型同时调试、电商客服、教学演示。
+
+---
+
+## 📞 Contact / 联系方式
+
+- 🌐 官方网站 / Website: [https://www.mpgc888.cn/](https://www.mpgc888.cn/)
+- 📧 邮箱 / Email: 416702@qq.com
+- 💬 QQ: 416702
+
+视频教程可在各大视频网站搜索：**全球搬砖者手机批量管理程序**
